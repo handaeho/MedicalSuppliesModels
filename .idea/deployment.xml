@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="aiteam@106.240.123.212:4885 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="aiteam@106.240.123.212:4885 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiteam/daeho/ArmyAIModel" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="aiteam@106.240.123.212:4885 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiteam/daeho/ArmyAIModel" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
